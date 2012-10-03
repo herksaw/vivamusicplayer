@@ -1,0 +1,11 @@
+Features:
+
+Supported audio format: *.mp3, *.wav.
+
+Able to perform play, pause, next, previous actions.
+
+Multiple files playing ability.
+
+Automatic play the next files in a track list.
+
+Show timeline and currently playing file name and length.
